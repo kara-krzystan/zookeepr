@@ -1,0 +1,64 @@
+{
+  "zookeepers": [
+    {
+      "id": "0",
+      "name": "Kim",
+      "age": 28,
+      "favoriteAnimal": "Dolphin"
+    },
+    {
+      "id": "1",
+      "name": "Kara",
+      "age": 31,
+      "favoriteAnimal": "Bear"
+    },
+    {
+      "id": "2",
+      "name": "Isabella",
+      "age": 27,
+      "favoriteAnimal": "Penguin"
+    },
+    {
+      "id": "3",
+      "name": "Amy",
+      "age": 48,
+      "favoriteAnimal": "Otter"
+    },
+    {
+      "id": "4",
+      "name": "Ryan",
+      "age": 29,
+      "favoriteAnimal": "Dog"
+    },
+    {
+      "id": "5",
+      "name": "Alex",
+      "age": 32,
+      "favoriteAnimal": "Sloths"
+    },
+    {
+      "id": "6",
+      "name": "Amiko",
+      "age": 43,
+      "favoriteAnimal": "Quokkas"
+    },
+    {
+      "id": "7",
+      "name": "Emmy",
+      "age": 29,
+      "favoriteAnimal": "Duckbilled Platypus"
+    },
+    {
+      "id": "8",
+      "name": "Tino",
+      "age": 49,
+      "favoriteAnimal": "Business Cat"
+    },
+    {
+      "id": "9",
+      "name": "Andrew",
+      "age": 40,
+      "favoriteAnimal": "Koala Bear"
+    }
+  ]
+}
